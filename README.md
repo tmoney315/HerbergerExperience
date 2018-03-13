@@ -16,7 +16,7 @@ Introducing the <strong>Herberger Experience</strong> app, a new way to take a c
         For the Augmented Reality development, we are using a powerful web AR framework, <a href="https://github.com/jeromeetienne/AR.js/blob/master/README.md">ar.js</a>, and an open-source web VR framework, <a href="https://aframe.io/">A-Frame</a>.
     </p>
     <p>
-        When you are on campus, especially inside the buildings, you may see some "AR-code"s around you. They will be taped on the walls. Most of them are in front of the rooms, located near the room number.
+        When you are on campus, especially inside the buildings, you may see some AR-codes around you. These look like little, black and white squares of paper with images and text on them. They will be taped on the walls. Most of them are in front of the rooms, located near the room number.
     </p>
     <p>
         Because our program works on the web, you don't need to install anything on your device. Just scan the code and play with it. That simple!
@@ -25,7 +25,7 @@ Introducing the <strong>Herberger Experience</strong> app, a new way to take a c
         <strong>For Apple iOS users (iPhone, iPad, iPod Touch),</strong>
     </p>
     <ul>
-        <li>If you are running iOS 11.0 or later, you can use the built-in Camera app to scan the QR code inside our "AR-code" markers. Through your camera app, you will be directed to the webpage where you are supposed to scan the marker.</li>
+        <li>If you are running iOS 11.0 or later, you can use the built-in Camera app to scan the QR code inside our AR-code markers. Through your camera app, you will be directed to the webpage where you are supposed to scan the marker.</li>
         <li>If you are running iOS 10.3.3 or below, you need to install a QR code scanner app or visit a QR code scanner website.</li>
     </ul>
     <p>
